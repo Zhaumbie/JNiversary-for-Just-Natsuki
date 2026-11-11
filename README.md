@@ -98,7 +98,7 @@ ___
 
 ## Uninstallation
 
-1. Delete the .rpy file and the added "cake_anni.png" prop.
+1. Delete the .rpy file and the added "anni_cake.png" prop.
 
 2. Nope, that was it. You're already done.
 
@@ -122,6 +122,10 @@ Basically, as always, bring receipts.
 
 - Team Salvato for Doki Doki Literature Club
 - The Just Natsuki Team for their work on Just Natsuki
-- **tuulijumala**, for the original illustration used with permission in this submod. **All rights to the original artwork remain with the artist.** The artwork is not public-domain material and should not be treated as covered by any license applying to the submod's code.
+- **tuulijumala**, for the art asset
+- Humanbean, my occasional beta tester whose upcoming anniversary reminded me I was about to miss my own!
+
+### Art Licence
+Original illustration by tuulijumala and licensed for use. The artwork is not covered by the MIT License and may not be independently redistributed, modified, or used in other projects, including commercial projects, without permission from the copyright holder. For more details, see "LICENCE.txt" in the release files.
 
 And, of course, thanks to everybody who's stuck around long enough to have an anniversary worth celebrating.
